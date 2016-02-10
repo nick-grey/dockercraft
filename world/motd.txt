@@ -1,4 +1,4 @@
-@9Welcome to Dockercraft!
+@9Welcome to Dockercraft v0.1! 
 @9https://github.com/docker/dockercraft
 @cWarning: Use on your local machine only
 @cDockercraft is not safe for use on production servers
